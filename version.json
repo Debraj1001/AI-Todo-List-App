@@ -1,0 +1,9 @@
+{
+  "version": "1.0.5",
+  "buildNumber": 6,
+  "downloadUrl": "https://github.com/Debraj1001/AI-Todo-List-App/releases/download/v1.0.5/todo_app_v1.0.5.apk",
+  "releaseNotes": "🎉 What's New:\n\n👤 Guest Mode & Connectivity:\n• 🚀 Added \"Continue as Guest\" for local-only sessions\n• 🔴 Red cloud indicators for Guest/Offline states\n• 🔄 Persistent sync toggle with clear status badges\n• ⚠️ Added warnings for local-only data limits\n\n🛠️ Profile & Polish:\n• 📧 Displays email under username (placeholder for guests)\n• 💾 Cached avatar & preferences now persist offline\n• 🌊 Smoother Home screen scrolling physics\n\n🙏 Thank you for using the app! We're constantly improving 🚀 to make your experience better.",
+  "releaseDate": "December 31, 2025",
+  "isForceUpdate": false,
+  "fileSizeBytes": 62939868
+}
